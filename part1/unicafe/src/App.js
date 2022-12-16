@@ -44,7 +44,7 @@ const App = () => {
   });
 
   const [bad, setBad] = useState({
-    name: "neutral",
+    name: "bad",
     value: 0,
   });
 
